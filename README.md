@@ -14,9 +14,9 @@ A C program that calculates the “Bacon score” of actors using breadth-first 
 
 ## How To run it:
 ### Compile the program using a C compiler, for example:
-    - gcc bacon.c -o bacon
+    - gcc BaconScore.c -o BaconScore
 ### Run the executable from the command line:
-    - ./bacon inputFile
+    - ./BaconScore inputFile
     - inputFile is the text file with movies and actors.
 
 ### Once running
@@ -24,7 +24,7 @@ A C program that calculates the “Bacon score” of actors using breadth-first 
     - Keep entering actor names until you want to stop (Ctrl+D on Unix, Ctrl+Z on Windows).
 
 ## Example usage:
-    - ./bacon -l movies.txt
+    - ./BaconScore -l movies.txt
     - Then input actor names interactively.
 
 ## Future Improvements
