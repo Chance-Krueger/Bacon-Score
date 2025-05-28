@@ -1,0 +1,21 @@
+Movie: Footloose
+Kevin Bacon
+Lori Singer
+John Lithgow
+Dianne Wiest
+Chris Penn
+
+Movie: The World According to Garp
+Robin Williams
+Glenn Close
+John Lithgow
+Jessica Tandy
+Swoosie Kurtz
+
+Movie: Good Will Hunting
+Matt Damon
+Ben Affleck
+Casey Affleck
+Robin Williams
+Movie: Sounder
+James Best
