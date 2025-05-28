@@ -1,2 +1,0 @@
-BaconScore: BaconScore.c
-	gcc -Wall -g BaconScore.c -o BaconScore
